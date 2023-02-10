@@ -1,0 +1,25 @@
+
+.conteiner{
+    margin: auto;
+    margin-top: 200px;
+}
+.bar {
+    background-color: gainsboro;
+    text-align: center;
+    height: 80px;
+}
+.card{
+    width: 442px;
+    height: 140px;
+    background-color: rgb(86, 194, 194);
+    float: left;
+    margin-right: 2px;
+    text-align: center;
+    
+}
+.footer {
+    text-align: center;
+    font-size: small;
+    margin-top: 150px;
+}
+
